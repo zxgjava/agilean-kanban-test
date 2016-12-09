@@ -1,4 +1,4 @@
-# Rest-Test
+# Agilean Kanban Test
 A collection of cucumber keywords to drive rest api test.
 
 # Example
